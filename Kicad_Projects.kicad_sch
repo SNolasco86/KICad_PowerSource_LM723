@@ -1695,7 +1695,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 22d2f5d1-4df5-461f-991d-c8748c700a3d)
     (property "Reference" "R5" (id 0) (at 161.29 110.49 90))
-    (property "Value" "820" (id 1) (at 161.29 113.03 90))
+    (property "Value" "1200" (id 1) (at 161.29 113.03 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 161.29 118.618 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2476,7 +2476,7 @@
       (reference "R4") (unit 1) (value "1K2") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/22d2f5d1-4df5-461f-991d-c8748c700a3d"
-      (reference "R5") (unit 1) (value "820") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R5") (unit 1) (value "1200") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/f4a210db-a764-4c51-92ec-33db5d37f45b"
       (reference "RV1") (unit 1) (value "500") (footprint "Potentiometer_THT:Potentiometer_ACP_CA9-H2,5_Horizontal")

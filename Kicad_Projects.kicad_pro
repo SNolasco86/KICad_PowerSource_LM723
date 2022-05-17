@@ -439,8 +439,8 @@
       "idf": "",
       "netlist": "../../",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "Kicad_Projects.step",
+      "vrml": "Kicad_Projects.wrl"
     },
     "page_layout_descr_file": ""
   },

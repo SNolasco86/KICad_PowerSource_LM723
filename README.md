@@ -14,7 +14,7 @@ La placa permite generar señales eléctricas como así también recibir señale
 
 # Consideraciones de la Placa
 ## Gerbers
-Los archivos Gerbers que están en este directorio [[link](https://github.com/SNolasco86/KICad_PowerSource_LM723/release/)] contienen todo lo necesario para realizar la fabricación de la placa en forma industrial. Es decir, pueden ser proporcionados a cualquier fabricante de placas. En las mismas extenciones de dichos archivos se encuentran información de las capas con las que fue diseñada esta placa. Para conocer e interpretar el formato de cada extensión puede revisarse la siguiente publicación [link](https://www.proto-electronics.com/es/blog/archivos-gerber-para-qe-sirven).
+Los archivos Gerbers que están en este directorio [[link](https://github.com/SNolasco86/KICad_PowerSource_LM723/tree/main/release/)] contienen todo lo necesario para realizar la fabricación de la placa en forma industrial. Es decir, pueden ser proporcionados a cualquier fabricante de placas. En las mismas extenciones de dichos archivos se encuentran información de las capas con las que fue diseñada esta placa. Para conocer e interpretar el formato de cada extensión puede revisarse la siguiente publicación [link](https://www.proto-electronics.com/es/blog/archivos-gerber-para-qe-sirven).
 
 ## PDFs
 Se exportan las diferentes capas de la placa en formato PDF de forma tal que pueda ser diseñado en forma manual. Existen diferentes métodos "caseros" con los que se puede llevar adelante la fabricación de una placa siempre y cuando el diseño lo permita. Esto quiere decir que no cualquier diseño PCB puede ser fabricado en forma manual. Esto se deben a las siguientes condiciones:

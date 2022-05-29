@@ -54,7 +54,7 @@
     (pad_to_mask_clearance 0)
     (grid_origin 106.427 92.491)
     (pcbplotparams
-      (layerselection 0x00010fc_ffffffff)
+      (layerselection 0x0000020_7ffffffe)
       (disableapertmacros false)
       (usegerberextensions true)
       (usegerberattributes true)

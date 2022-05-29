@@ -4,14 +4,14 @@ Placa para realizar la fuente de Mecatrónica I regulable en tensión (1,2V a 18
 Tambien está diseñada para poder conectarla con un voltimetro/amperimetro disponible en el mercado para ser colocada en el propio gabinete.
 
 # Vistas
-<img src="https://github.com/SNolasco86/KICad_PowerSource_LM723/shapes3D/Kicad_Projects.png" width="425" height="295">
-<img src="https://github.com/SNolasco86/KICad_PowerSource_LM723/shapes3D/Kicad_Projects_Top.png" width="425" height="295">
-<img src="https://github.com/SNolasco86/KICad_PowerSource_LM723/shapes3D/Kicad_Projects_Top_without.png" width="425" height="295">
-<img src="https://github.com/SNolasco86/KICad_PowerSource_LM723/shapes3D/Kicad_Projects_bottom.png" width="425" height="295">
+<img src="https://github.com/SNolasco86/KICad_PowerSource_LM723/blob/main/shapes3D/Kicad_Projects.png" width="425" height="295">
+<img src="https://github.com/SNolasco86/KICad_PowerSource_LM723/blob/main/shapes3D/Kicad_Projects_Top.png" width="425" height="295">
+<img src="https://github.com/SNolasco86/KICad_PowerSource_LM723/blob/main/shapes3D/Kicad_Projects_Top_without.png" width="425" height="295">
+<img src="https://https://github.com/SNolasco86/KICad_PowerSource_LM723/blob/main/shapes3D/Kicad_Projects_Top_bottom.png" width="425" height="295">
 # Recursos
-La placa permite generar señales eléctricas como así también recibir señales desde circuitos externos. El esqumático puede verse en este [PDF](https://github.com/SNolasco86/KICad_PowerSource_LM723/sch/Board.pdf).
+La placa permite generar señales eléctricas como así también recibir señales desde circuitos externos. El esqumático puede verse en este [PDF](https://github.com/SNolasco86/KICad_PowerSource_LM723/tree/main/sch).
 
-<img src="https://github.com/SNolasco86/KICad_PowerSource_LM723/sch/Board.pdf" width="480" height="238">
+<img src="https://github.com/SNolasco86/KICad_PowerSource_LM723/tree/main/sch" width="480" height="238">
 
 # Consideraciones de la Placa
 ## Gerbers
@@ -30,8 +30,8 @@ Se exportan las diferentes capas de la placa en formato PDF de forma tal que pue
  - **Perforaciones:** Los fabricantes de placas tienen herramientas que permiten una exactitud en las perforaciones, además de complir con las secciones requeridas. En caso de realizarla manualmente este proceso podría contener errores propios de la manipulación manual y falto de precisión.
 
 ## Capas
-La placa está diseñada para ser fabricada a simple faz. En los archivos [PDF](https://github.com/SNolasco86/KICad_PowerSource_LM723/pcb/) de fabricación se pueden identificar dos capas:
- - **Capa Superior [[minilab-F.Cu.pdf](https://github.com/SNolasco86/KICad_PowerSource_LM723/pcb/Top.pdf)]:** En esta capa se colocarán los componentes electrónicos y en caso de fabricar manualmente la placa, se deberá insertar los cables-puentes de la placa. Estos "puentes" emulan las coneciones de la capa inferior. 
- - **Capa inferior[[minilab-B.Cu.pdf](https://github.com/SNolasco86/KICad_PowerSource_LM723/pcb/Bottom.pdf)]:** Es la capa dónde se trandrán las pistas de cobre y se realizarán las soldaduras.
+La placa está diseñada para ser fabricada a simple faz. En los archivos [PDF](https://github.com/SNolasco86/KICad_PowerSource_LM723/tree/main/pcb/) de fabricación se pueden identificar dos capas:
+ - **Capa Superior [[minilab-F.Cu.pdf](https://github.com/SNolasco86/KICad_PowerSource_LM723/blob/main/pcb/Top.pdf)]:** En esta capa se colocarán los componentes electrónicos y en caso de fabricar manualmente la placa, se deberá insertar los cables-puentes de la placa. Estos "puentes" emulan las coneciones de la capa inferior. 
+ - **Capa inferior[[minilab-B.Cu.pdf](https://github.com/SNolasco86/KICad_PowerSource_LM723/blob/main/pcb/Bottom.pdf)]:** Es la capa dónde se trandrán las pistas de cobre y se realizarán las soldaduras.
  
  

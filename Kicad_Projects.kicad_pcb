@@ -2427,7 +2427,7 @@
   (gr_line (start 63.5 123.19) (end 163.83 123.19) (layer "Edge.Cuts") (width 0.1) (tstamp 686f01ff-61f4-4d40-93ac-68b31f1bd25e))
   (gr_line (start 163.83 72.39) (end 63.5 72.39) (layer "Edge.Cuts") (width 0.1) (tstamp 71de323b-6d3d-4d8d-9a83-9da5bc458314))
   (gr_text "Fuente 18V 3A\nMeca1 2022 " (at 79.249 75.346) (layer "B.Cu") (tstamp bb081485-e2b1-4818-82d4-d89be29e0cf2)
-    (effects (font (size 1.5 1.5) (thickness 0.3)))
+    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (gr_text "Jumper" (at 140.844 76.743) (layer "F.SilkS") (tstamp aa8bac54-4102-4fd2-94a4-d7f81d5546aa)
     (effects (font (size 1 1) (thickness 0.15)))

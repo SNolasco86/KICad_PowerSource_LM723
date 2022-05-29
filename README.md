@@ -7,11 +7,10 @@ Tambien está diseñada para poder conectarla con un voltimetro/amperimetro disp
 <img src="https://github.com/SNolasco86/KICad_PowerSource_LM723/blob/main/shapes3D/Kicad_Projects.png" width="425" height="295">
 <img src="https://github.com/SNolasco86/KICad_PowerSource_LM723/blob/main/shapes3D/Kicad_Projects_Top.png" width="425" height="295">
 <img src="https://github.com/SNolasco86/KICad_PowerSource_LM723/blob/main/shapes3D/Kicad_Projects_Top_without.png" width="425" height="295">
-<img src="https://https://github.com/SNolasco86/KICad_PowerSource_LM723/blob/main/shapes3D/Kicad_Projects_Top_bottom.png" width="425" height="295">
+<img src="https://github.com/SNolasco86/KICad_PowerSource_LM723/blob/main/shapes3D/Kicad_Projects_Top_bottom.png" width="425" height="295">
 # Recursos
-La placa permite generar señales eléctricas como así también recibir señales desde circuitos externos. El esqumático puede verse en este [PDF](https://github.com/SNolasco86/KICad_PowerSource_LM723/tree/main/sch).
+La placa permite generar señales eléctricas como así también recibir señales desde circuitos externos. El esqumático puede verse en este [PDF](https://github.com/SNolasco86/KICad_PowerSource_LM723/tree/main/sch/Board.pdf).
 
-<img src="https://github.com/SNolasco86/KICad_PowerSource_LM723/tree/main/sch" width="480" height="238">
 
 # Consideraciones de la Placa
 ## Gerbers
